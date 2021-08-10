@@ -1,0 +1,22 @@
+body{
+    color:  yellow;
+}
+
+.input-group{
+    padding-top: 120px;
+}
+#cards{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    padding-top: 10px;
+}
+
+#singleMeal img{
+    width: 300px;
+}
+
+#singleMeal {
+    padding-top: 10px;
+    orientation: center;
+}
